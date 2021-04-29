@@ -1,0 +1,39 @@
+#marqueeStyle {
+background-color: cadetblue;
+text-decoration-color: orangered   
+}
+
+
+.mainDIV{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right:0px;
+    float: none; 
+}
+
+.mainDIV img{
+    width: 100%;
+    
+}
+.mainDIV hr{
+    width: 230px;
+    
+}
+
+.mainDIV h5, .mainDIV p{
+margin-left:20px;
+    
+}
+
+.school_achievments{
+    font-size:20;
+    padding: 6px 22px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    
+}
+
+.school_achievments i{
+    float:right;
+    
+
